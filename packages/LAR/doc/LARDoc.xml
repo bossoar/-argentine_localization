@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="adempiereDocument.css"?>
+
+<adempiereDocument>
+    <header>LAR Package Description</header>
+    <H1>Package Name:</H1>
+    <packagename>LAR</packagename>
+    <H1>Creator:</H1>
+    <creator>ergio</creator>
+    <H1>Email Address:</H1>
+    <creatorcontact>lar@ergio.com.ar</creatorcontact>
+    <H1>Created:</H1>
+    <createddate>2012-01-23 16:57:33</createddate>
+    <H1>Updated:</H1>
+    <updateddate>2012-01-25 13:19:33</updateddate>
+    <H1>Description:</H1>
+    <description>Localización Argentina contiene:
+    La Entidad Localización Argentina
+    Las ventanas y tablas para la impresora Fiscal.
+    La tabla de calculo de percepciones en las órdenes.
+    Agrega campos a las ventanas Socio del Negocio, Tipo de Documento y Terminal PDV.</description>
+    <H1>Instructions:</H1>
+    <instructions>Aplicar sobre la base original con LCO.</instructions>
+    <H1>Files in Package:</H1>
+    <file>File: PackOut.xml</file>
+    <filedirectory>Directory: \dict\</filedirectory>
+    <filenotes>Notes: Contains all application/object settings for package</filenotes>
+</adempiereDocument>
